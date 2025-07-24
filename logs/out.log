@@ -1,0 +1,237 @@
+2025-07-24 10:55:54: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  enable debug logging with { debug: true })
+2025-07-24 10:55:54: 2025-07-24 10:55:54 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 10:55:54: 2025-07-24 10:55:54 [32minfo[39m: Endpoints available:
+2025-07-24 10:55:54: 2025-07-24 10:55:54 [32minfo[39m:   - GET /api/printers
+2025-07-24 10:55:54: 2025-07-24 10:55:54 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 10:55:54: 2025-07-24 10:55:54 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 10:56:53: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' })
+2025-07-24 10:56:53: 2025-07-24 10:56:53 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 10:56:53: 2025-07-24 10:56:53 [32minfo[39m: Endpoints available:
+2025-07-24 10:56:53: 2025-07-24 10:56:53 [32minfo[39m:   - GET /api/printers
+2025-07-24 10:56:53: 2025-07-24 10:56:53 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 10:56:53: 2025-07-24 10:56:53 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 10:56:59: 2025-07-24 10:56:59 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 10:56:59: 2025-07-24 10:56:59 [32minfo[39m: Received data for /api/print-html
+2025-07-24 10:57:03: 2025-07-24 10:57:03 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 10:57:20: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  override existing env vars with { override: true })
+2025-07-24 10:57:20: 2025-07-24 10:57:20 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 10:57:20: 2025-07-24 10:57:20 [32minfo[39m: Endpoints available:
+2025-07-24 10:57:20: 2025-07-24 10:57:20 [32minfo[39m:   - GET /api/printers
+2025-07-24 10:57:20: 2025-07-24 10:57:20 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 10:57:20: 2025-07-24 10:57:20 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 11:01:25: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] })
+2025-07-24 11:01:25: 2025-07-24 11:01:25 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 11:01:25: 2025-07-24 11:01:25 [32minfo[39m: Endpoints available:
+2025-07-24 11:01:25: 2025-07-24 11:01:25 [32minfo[39m:   - GET /api/printers
+2025-07-24 11:01:25: 2025-07-24 11:01:25 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 11:01:25: 2025-07-24 11:01:25 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 11:01:33: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  override existing env vars with { override: true })
+2025-07-24 11:01:33: 2025-07-24 11:01:33 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 11:01:33: 2025-07-24 11:01:33 [32minfo[39m: Endpoints available:
+2025-07-24 11:01:33: 2025-07-24 11:01:33 [32minfo[39m:   - GET /api/printers
+2025-07-24 11:01:33: 2025-07-24 11:01:33 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 11:01:33: 2025-07-24 11:01:33 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 11:01:37: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit)
+2025-07-24 11:01:37: 2025-07-24 11:01:37 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 11:01:37: 2025-07-24 11:01:37 [32minfo[39m: Endpoints available:
+2025-07-24 11:01:37: 2025-07-24 11:01:37 [32minfo[39m:   - GET /api/printers
+2025-07-24 11:01:37: 2025-07-24 11:01:37 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 11:01:37: 2025-07-24 11:01:37 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 11:01:46: 2025-07-24 11:01:46 [32minfo[39m: Successfully retrieved printer list.
+2025-07-24 12:15:46: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`)
+2025-07-24 12:15:46: 2025-07-24 12:15:46 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 12:15:46: 2025-07-24 12:15:46 [32minfo[39m: Endpoints available:
+2025-07-24 12:15:46: 2025-07-24 12:15:46 [32minfo[39m:   - GET /api/printers
+2025-07-24 12:15:46: 2025-07-24 12:15:46 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 12:15:46: 2025-07-24 12:15:46 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 12:18:10: 2025-07-24 12:18:10 [32minfo[39m: Successfully retrieved printer list.
+2025-07-24 12:20:29: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  enable debug logging with { debug: true })
+2025-07-24 12:20:29: 2025-07-24 12:20:29 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 12:20:29: 2025-07-24 12:20:29 [32minfo[39m: Endpoints available:
+2025-07-24 12:20:29: 2025-07-24 12:20:29 [32minfo[39m:   - GET /api/printers
+2025-07-24 12:20:29: 2025-07-24 12:20:29 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 12:20:29: 2025-07-24 12:20:29 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 12:32:41: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🔐 encrypt with dotenvx: https://dotenvx.com)
+2025-07-24 12:32:41: 2025-07-24 12:32:41 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 12:32:41: 2025-07-24 12:32:41 [32minfo[39m: Endpoints available:
+2025-07-24 12:32:41: 2025-07-24 12:32:41 [32minfo[39m:   - GET /api/printers
+2025-07-24 12:32:41: 2025-07-24 12:32:41 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 12:32:41: 2025-07-24 12:32:41 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 12:40:32: 2025-07-24 12:40:32 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 12:40:32: 2025-07-24 12:40:32 [32minfo[39m: Received data for /api/print-html
+2025-07-24 12:40:36: 2025-07-24 12:40:36 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 12:43:42: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' })
+2025-07-24 12:43:42: 2025-07-24 12:43:42 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 12:43:42: 2025-07-24 12:43:42 [32minfo[39m: Endpoints available:
+2025-07-24 12:43:42: 2025-07-24 12:43:42 [32minfo[39m:   - GET /api/printers
+2025-07-24 12:43:42: 2025-07-24 12:43:42 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 12:43:42: 2025-07-24 12:43:42 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 12:47:40: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit)
+2025-07-24 12:47:40: 2025-07-24 12:47:40 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 12:47:40: 2025-07-24 12:47:40 [32minfo[39m: Endpoints available:
+2025-07-24 12:47:40: 2025-07-24 12:47:40 [32minfo[39m:   - GET /api/printers
+2025-07-24 12:47:40: 2025-07-24 12:47:40 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 12:47:40: 2025-07-24 12:47:40 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 12:48:07: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' })
+2025-07-24 12:48:07: 2025-07-24 12:48:07 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 12:48:07: 2025-07-24 12:48:07 [32minfo[39m: Endpoints available:
+2025-07-24 12:48:07: 2025-07-24 12:48:07 [32minfo[39m:   - GET /api/printers
+2025-07-24 12:48:07: 2025-07-24 12:48:07 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 12:48:07: 2025-07-24 12:48:07 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 12:52:27: 2025-07-24 12:52:27 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 12:52:27: 2025-07-24 12:52:27 [32minfo[39m: Received data for /api/print-html
+2025-07-24 12:52:31: 2025-07-24 12:52:31 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 12:54:17: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`)
+2025-07-24 12:54:17: 2025-07-24 12:54:17 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 12:54:17: 2025-07-24 12:54:17 [32minfo[39m: Endpoints available:
+2025-07-24 12:54:17: 2025-07-24 12:54:17 [32minfo[39m:   - GET /api/printers
+2025-07-24 12:54:17: 2025-07-24 12:54:17 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 12:54:17: 2025-07-24 12:54:17 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 12:54:31: 2025-07-24 12:54:31 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 12:54:31: 2025-07-24 12:54:31 [32minfo[39m: Received data for /api/print-html
+2025-07-24 12:54:35: 2025-07-24 12:54:35 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 13:15:13: 2025-07-24 13:15:13 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 13:15:13: 2025-07-24 13:15:13 [32minfo[39m: Received data for /api/print-html
+2025-07-24 13:15:15: 2025-07-24 13:15:15 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 13:23:10: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`)
+2025-07-24 13:23:10: 2025-07-24 13:23:10 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 13:23:10: 2025-07-24 13:23:10 [32minfo[39m: Endpoints available:
+2025-07-24 13:23:10: 2025-07-24 13:23:10 [32minfo[39m:   - GET /api/printers
+2025-07-24 13:23:10: 2025-07-24 13:23:10 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 13:23:10: 2025-07-24 13:23:10 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 13:24:24: 2025-07-24 13:24:24 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 13:24:24: 2025-07-24 13:24:24 [32minfo[39m: Received data for /api/print-html
+2025-07-24 13:24:28: 2025-07-24 13:24:28 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 13:40:22: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  suppress all logs with { quiet: true })
+2025-07-24 13:40:22: 2025-07-24 13:40:22 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 13:40:22: 2025-07-24 13:40:22 [32minfo[39m: Endpoints available:
+2025-07-24 13:40:22: 2025-07-24 13:40:22 [32minfo[39m:   - GET /api/printers
+2025-07-24 13:40:22: 2025-07-24 13:40:22 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 13:40:22: 2025-07-24 13:40:22 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 13:48:18: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`)
+2025-07-24 13:48:18: 2025-07-24 13:48:18 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 13:48:18: 2025-07-24 13:48:18 [32minfo[39m: Endpoints available:
+2025-07-24 13:48:18: 2025-07-24 13:48:18 [32minfo[39m:   - GET /api/printers
+2025-07-24 13:48:18: 2025-07-24 13:48:18 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 13:48:18: 2025-07-24 13:48:18 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 13:51:24: 2025-07-24 13:51:24 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 13:51:24: 2025-07-24 13:51:24 [32minfo[39m: Received data for /api/print-html
+2025-07-24 13:51:27: 2025-07-24 13:51:27 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 13:55:47: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  enable debug logging with { debug: true })
+2025-07-24 13:55:47: 2025-07-24 13:55:47 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 13:55:47: 2025-07-24 13:55:47 [32minfo[39m: Endpoints available:
+2025-07-24 13:55:47: 2025-07-24 13:55:47 [32minfo[39m:   - GET /api/printers
+2025-07-24 13:55:47: 2025-07-24 13:55:47 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 13:55:47: 2025-07-24 13:55:47 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:02:59: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  write to custom object with { processEnv: myObject })
+2025-07-24 14:02:59: 2025-07-24 14:02:59 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:02:59: 2025-07-24 14:02:59 [32minfo[39m: Endpoints available:
+2025-07-24 14:02:59: 2025-07-24 14:02:59 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:02:59: 2025-07-24 14:02:59 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:02:59: 2025-07-24 14:02:59 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:16:56: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit)
+2025-07-24 14:16:56: 2025-07-24 14:16:56 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:16:56: 2025-07-24 14:16:56 [32minfo[39m: Endpoints available:
+2025-07-24 14:16:56: 2025-07-24 14:16:56 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:16:56: 2025-07-24 14:16:56 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:16:56: 2025-07-24 14:16:56 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:21:01: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  suppress all logs with { quiet: true })
+2025-07-24 14:21:01: 2025-07-24 14:21:01 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:21:01: 2025-07-24 14:21:01 [32minfo[39m: Endpoints available:
+2025-07-24 14:21:01: 2025-07-24 14:21:01 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:21:01: 2025-07-24 14:21:01 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:21:01: 2025-07-24 14:21:01 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:23:37: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  override existing env vars with { override: true })
+2025-07-24 14:23:37: 2025-07-24 14:23:37 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:23:37: 2025-07-24 14:23:37 [32minfo[39m: Endpoints available:
+2025-07-24 14:23:37: 2025-07-24 14:23:37 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:23:37: 2025-07-24 14:23:37 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:23:37: 2025-07-24 14:23:37 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:39:13: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  enable debug logging with { debug: true })
+2025-07-24 14:39:13: 2025-07-24 14:39:13 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:39:13: 2025-07-24 14:39:13 [32minfo[39m: Endpoints available:
+2025-07-24 14:39:13: 2025-07-24 14:39:13 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:39:13: 2025-07-24 14:39:13 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:39:13: 2025-07-24 14:39:13 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:39:42: 2025-07-24 14:39:42 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 14:39:42: 2025-07-24 14:39:42 [32minfo[39m: Received data for /api/print-html
+2025-07-24 14:40:14: 2025-07-24 14:40:14 [31merror[39m: Error during Puppeteer printing
+2025-07-24 14:40:14: 2025-07-24 14:40:14 [31merror[39m: TimeoutError: Timed out after waiting 30000ms
+2025-07-24 14:40:14:     at file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/puppeteer/common/util.js:251:19
+2025-07-24 14:40:14:     at file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1936:31
+2025-07-24 14:40:14:     at OperatorSubscriber2._this._next (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:993:9)
+2025-07-24 14:40:14:     at Subscriber2.next (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:696:12)
+2025-07-24 14:40:14:     at AsyncAction2.<anonymous> (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:2280:20)
+2025-07-24 14:40:14:     at AsyncAction2._execute (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1360:12)
+2025-07-24 14:40:14:     at AsyncAction2.execute (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1349:22)
+2025-07-24 14:40:14:     at AsyncScheduler2.flush (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1427:26)
+2025-07-24 14:40:14:     at listOnTimeout (node:internal/timers:573:17)
+2025-07-24 14:40:14:     at process.processTimers (node:internal/timers:514:7)
+2025-07-24 14:40:37: 2025-07-24 14:40:37 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 14:40:37: 2025-07-24 14:40:37 [32minfo[39m: Received data for /api/print-html
+2025-07-24 14:41:07: 2025-07-24 14:41:07 [31merror[39m: Error during Puppeteer printing
+2025-07-24 14:41:07: 2025-07-24 14:41:07 [31merror[39m: TimeoutError: Timed out after waiting 30000ms
+2025-07-24 14:41:07:     at file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/puppeteer/common/util.js:251:19
+2025-07-24 14:41:07:     at file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1936:31
+2025-07-24 14:41:07:     at OperatorSubscriber2._this._next (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:993:9)
+2025-07-24 14:41:07:     at Subscriber2.next (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:696:12)
+2025-07-24 14:41:07:     at AsyncAction2.<anonymous> (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:2280:20)
+2025-07-24 14:41:07:     at AsyncAction2._execute (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1360:12)
+2025-07-24 14:41:07:     at AsyncAction2.execute (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1349:22)
+2025-07-24 14:41:07:     at AsyncScheduler2.flush (file:///C:/Users/tnoadmin/Documents/YAP%20WEI%20JUN/Project/printer-server-nodejs-v4/node_modules/puppeteer-core/lib/esm/third_party/rxjs/rxjs.js:1427:26)
+2025-07-24 14:41:07:     at listOnTimeout (node:internal/timers:573:17)
+2025-07-24 14:41:07:     at process.processTimers (node:internal/timers:514:7)
+2025-07-24 14:44:14: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' })
+2025-07-24 14:44:14: 2025-07-24 14:44:14 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:44:14: 2025-07-24 14:44:14 [32minfo[39m: Endpoints available:
+2025-07-24 14:44:14: 2025-07-24 14:44:14 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:44:14: 2025-07-24 14:44:14 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:44:14: 2025-07-24 14:44:14 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:45:46: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`)
+2025-07-24 14:45:46: 2025-07-24 14:45:46 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:45:46: 2025-07-24 14:45:46 [32minfo[39m: Endpoints available:
+2025-07-24 14:45:46: 2025-07-24 14:45:46 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:45:46: 2025-07-24 14:45:46 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:45:46: 2025-07-24 14:45:46 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:48:46: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' })
+2025-07-24 14:48:46: 2025-07-24 14:48:46 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:48:46: 2025-07-24 14:48:46 [32minfo[39m: Endpoints available:
+2025-07-24 14:48:46: 2025-07-24 14:48:46 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:48:46: 2025-07-24 14:48:46 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:48:46: 2025-07-24 14:48:46 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:54:45: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`)
+2025-07-24 14:54:45: 2025-07-24 14:54:45 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:54:45: 2025-07-24 14:54:45 [32minfo[39m: Endpoints available:
+2025-07-24 14:54:45: 2025-07-24 14:54:45 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:54:45: 2025-07-24 14:54:45 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:54:45: 2025-07-24 14:54:45 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:55:17: 2025-07-24 14:55:17 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 14:55:17: 2025-07-24 14:55:17 [32minfo[39m: Received data for /api/print-html
+2025-07-24 14:55:21: 2025-07-24 14:55:21 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 14:57:10: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  override existing env vars with { override: true })
+2025-07-24 14:57:10: 2025-07-24 14:57:10 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 14:57:10: 2025-07-24 14:57:10 [32minfo[39m: Endpoints available:
+2025-07-24 14:57:10: 2025-07-24 14:57:10 [32minfo[39m:   - GET /api/printers
+2025-07-24 14:57:10: 2025-07-24 14:57:10 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 14:57:10: 2025-07-24 14:57:10 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 14:57:25: 2025-07-24 14:57:25 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 14:57:25: 2025-07-24 14:57:25 [32minfo[39m: Received data for /api/print-html
+2025-07-24 14:57:28: 2025-07-24 14:57:28 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 15:09:19: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit)
+2025-07-24 15:09:19: 2025-07-24 15:09:19 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 15:09:19: 2025-07-24 15:09:19 [32minfo[39m: Endpoints available:
+2025-07-24 15:09:19: 2025-07-24 15:09:19 [32minfo[39m:   - GET /api/printers
+2025-07-24 15:09:19: 2025-07-24 15:09:19 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 15:09:19: 2025-07-24 15:09:19 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 15:09:39: 2025-07-24 15:09:39 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 15:09:39: 2025-07-24 15:09:39 [32minfo[39m: Received data for /api/print-html
+2025-07-24 15:09:43: 2025-07-24 15:09:43 [32minfo[39m: Successfully processed print job for CutePDF Writer.
+2025-07-24 15:12:08: [dotenv@17.2.0] injecting env (1) from Server\.env (tip: ⚙️  override existing env vars with { override: true })
+2025-07-24 15:12:08: 2025-07-24 15:12:08 [32minfo[39m: Node.js Print Server listening at http://localhost:3000
+2025-07-24 15:12:08: 2025-07-24 15:12:08 [32minfo[39m: Endpoints available:
+2025-07-24 15:12:08: 2025-07-24 15:12:08 [32minfo[39m:   - GET /api/printers
+2025-07-24 15:12:08: 2025-07-24 15:12:08 [32minfo[39m:   - POST /api/print-html (High Quality, Selectable Text)
+2025-07-24 15:12:08: 2025-07-24 15:12:08 [32minfo[39m:   - POST /api/print-base64 (Lower Quality, Image-based)
+2025-07-24 15:13:02: 2025-07-24 15:13:02 [32minfo[39m: Processing /api/print-html request from ::ffff:127.0.0.1
+2025-07-24 15:13:02: 2025-07-24 15:13:02 [32minfo[39m: Received data for /api/print-html
+2025-07-24 15:13:06: 2025-07-24 15:13:06 [32minfo[39m: Successfully processed print job for CutePDF Writer.

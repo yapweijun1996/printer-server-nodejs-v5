@@ -1,0 +1,33 @@
+2025-07-24 10:58:07: Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express' imported from C:\Users\tnoadmin\Documents\YAP WEI JUN\Project\printer-server-nodejs-v4\Server\index.js
+2025-07-24 10:58:07:     at packageResolve (node:internal/modules/esm/resolve:854:9)
+2025-07-24 10:58:07:     at moduleResolve (node:internal/modules/esm/resolve:927:18)
+2025-07-24 10:58:07:     at defaultResolve (node:internal/modules/esm/resolve:1157:11)
+2025-07-24 10:58:07:     at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:390:12)
+2025-07-24 10:58:07:     at ModuleLoader.resolve (node:internal/modules/esm/loader:359:25)
+2025-07-24 10:58:07:     at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:234:38)
+2025-07-24 10:58:07:     at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:87:39)
+2025-07-24 10:58:07:     at link (node:internal/modules/esm/module_job:86:36) {
+2025-07-24 10:58:07:   code: 'ERR_MODULE_NOT_FOUND'
+2025-07-24 10:58:07: }
+2025-07-24 10:59:45: Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express' imported from C:\Users\tnoadmin\Documents\YAP WEI JUN\Project\printer-server-nodejs-v4\Server\index.js
+2025-07-24 10:59:45:     at packageResolve (node:internal/modules/esm/resolve:854:9)
+2025-07-24 10:59:45:     at moduleResolve (node:internal/modules/esm/resolve:927:18)
+2025-07-24 10:59:45:     at defaultResolve (node:internal/modules/esm/resolve:1157:11)
+2025-07-24 10:59:45:     at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:390:12)
+2025-07-24 10:59:45:     at ModuleLoader.resolve (node:internal/modules/esm/loader:359:25)
+2025-07-24 10:59:45:     at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:234:38)
+2025-07-24 10:59:45:     at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:87:39)
+2025-07-24 10:59:45:     at link (node:internal/modules/esm/module_job:86:36) {
+2025-07-24 10:59:45:   code: 'ERR_MODULE_NOT_FOUND'
+2025-07-24 10:59:45: }
+2025-07-24 14:28:52: Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express' imported from C:\Users\tnoadmin\Documents\YAP WEI JUN\Project\printer-server-nodejs-v4\Server\index.js
+2025-07-24 14:28:52:     at packageResolve (node:internal/modules/esm/resolve:854:9)
+2025-07-24 14:28:52:     at moduleResolve (node:internal/modules/esm/resolve:927:18)
+2025-07-24 14:28:52:     at defaultResolve (node:internal/modules/esm/resolve:1157:11)
+2025-07-24 14:28:52:     at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:390:12)
+2025-07-24 14:28:52:     at ModuleLoader.resolve (node:internal/modules/esm/loader:359:25)
+2025-07-24 14:28:52:     at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:234:38)
+2025-07-24 14:28:52:     at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:87:39)
+2025-07-24 14:28:52:     at link (node:internal/modules/esm/module_job:86:36) {
+2025-07-24 14:28:52:   code: 'ERR_MODULE_NOT_FOUND'
+2025-07-24 14:28:52: }
