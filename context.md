@@ -77,13 +77,31 @@ The `ecosystem.config.cjs` file in the `Server` directory configures PM2 to run 
 
 ---
 
-## 5. Development Workflow
+## 5. Setup and Management
+
+This project can be set up and managed manually or via a convenience script on Windows.
+
+### Windows Quick Management (`manage.bat`)
+
+For Windows users, the `manage.bat` script in the project root is the recommended way to manage the server. It automates all common tasks. **Right-click `manage.bat` and "Run as administrator"** to access all features.
+
+The script provides the following options:
+-   **[1] Install Dependencies**: Automatically runs `npm install` and installs the `pm2` process manager globally. This is the first step for any new setup.
+-   **[2] Start Server (Production)**: Starts the server using PM2, making it a persistent background service.
+-   **[3] Stop Server**: Stops the running PM2 service.
+-   **[4] Restart Server**: Restarts the PM2 service.
+-   **[5] View Server Status and Logs**: Shows the PM2 process list and any console output.
+-   **[6] Enable Auto-Startup on Reboot**: (Admin) Configures the server to start automatically when the computer reboots.
+-   **[7] Disable Auto-Startup on Reboot**: (Admin) Removes the auto-startup configuration.
+-   **[X] NUKE PM2 FROM ORBIT**: (Admin) A recovery tool that completely uninstalls PM2, kills all related processes, and clears all configurations. This is useful for fixing a corrupted PM2 installation and starting fresh.
+
+### Manual Development Workflow (All Platforms)
 
 1.  **Install dependencies**: From the **project root**, run `npm install`.
-2.  **Start the server for development**: From the **project root**, run `npm start`. This uses `node` to run the server.
-3.  **Start the server for production**: From the **project root**, run `npm run start:prod`. This uses `pm2` to run the server as a background service.
+2.  **Start the server for development**: From the **project root**, run `npm start`. This uses `node` to run the server, and logs will appear directly in your console.
+3.  **Start the server for production**: From the **project root**, run `npm run start:prod`. This uses `pm2` to run the server as a background service, as defined in `Server/ecosystem.config.cjs`.
 4.  **Test with the UI**: Open `http://localhost:3000` in a web browser.
 5.  **Make changes**: Modify the relevant files in the `Server` directory.
 6.  **Restart the server**:
     - For development, stop the server (Ctrl+C) and restart with `npm start`.
-    - For production, run `npm run restart:prod`.
+    - For production, run `npm run restart:prod` or use the `pm2 restart print-server` command.

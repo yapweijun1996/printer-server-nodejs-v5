@@ -247,22 +247,23 @@ Prints an existing PDF provided as a Base64-encoded string.
     ```
 
 
-## Production Deployment with PM2
+## Production Deployment & Management
 
 For running this server in a production environment, using a process manager like [PM2](https://pm2.keymetrics.io/) is highly recommended. PM2 keeps your server online by automatically restarting it if it crashes and provides tools for monitoring and managing the process.
 
-### Easy Management with `manage.bat` (For Windows Users)
+### Quick Setup with `manage.bat` (Windows Users)
 
-This project includes a `manage.bat` script to simplify all common tasks for Windows users. Simply double-click the file and choose an option from the menu.
+This project includes a powerful `manage.bat` script to simplify all common tasks for Windows users. **For full functionality, right-click `manage.bat` and select "Run as administrator".**
 
-**Available Options:**
--   **Install Dependencies**: Runs `npm install` and installs PM2 globally.
--   **Start Server**: Starts the server in production mode using PM2.
--   **Stop/Restart/Delete Server**: Manages the running server instance.
--   **View Logs**: Displays the latest logs.
--   **Enable/Disable Auto-Startup**: Configures the server to run automatically when the system boots.
+**Key Features:**
+-   **[1] Install Dependencies**: Runs `npm install` and installs PM2 globally. This is the only setup step needed.
+-   **[2] Start Server**: Starts the server in production mode using PM2.
+-   **[3-5] Stop/Restart/Status**: Provides standard process management.
+-   **[6] Enable Auto-Startup**: **(Admin)** Sets up a Windows service to ensure the print server runs automatically after a system reboot.
+-   **[7] Disable Auto-Startup**: **(Admin)** Removes the Windows service.
+-   **[X] NUKE PM2 FROM ORBIT**: **(Admin)** This is a powerful recovery tool. If the server fails to start due to a corrupted PM2 installation (e.g., `EPERM` errors), this option will completely uninstall PM2, kill all lingering processes, and clear all its configuration files, allowing for a truly fresh start.
 
-### Manual Management (For All Platforms)
+### Manual Management (All Platforms)
 
 This project includes a pre-configured PM2 setup. Here’s a step-by-step guide to get it running.
 
